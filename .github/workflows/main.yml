@@ -22,4 +22,4 @@ jobs:
 
       - name: Build with Maven
         working-directory: DemoWebShop
-        run: mvn clean install
+        run: mvn test
