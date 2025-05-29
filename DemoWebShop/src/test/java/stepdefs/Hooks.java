@@ -28,23 +28,23 @@ public class Hooks {
 	@Before
 	public void setup() throws InterruptedException {
 		logger.info("Launching browser...");
-		
-		driver = new ChromeDriver();
-		
 
+		driver = new ChromeDriver();
+
+		System.out.println("Done");
 		if (dataIterator == null) {
-            List<String[]> loginData = ExcelReader.getLoginData("C:\\Users\\NM116396\\Downloads\\demoshopnew 1\\DemoWebShop\\TestData\\LoginTest 1.xlsx");
-            dataIterator = loginData.iterator();
-        }
-	 
-	        if (dataIterator.hasNext()) {
-	            String[] credentials = dataIterator.next();
-	            TestContext.setUsername(credentials[0]);
-	            TestContext.setPassword(credentials[1]);
-	        } else {
-	            throw new RuntimeException("No more test data available.");
-	        }
-	 
+			List<String[]> loginData = ExcelReader.getLoginData(
+					"C:\\Users\\NM116396\\Downloads\\demoshopnew 1\\DemoWebShop\\TestData\\LoginTest 1.xlsx");
+			dataIterator = loginData.iterator();
+		}
+
+		if (dataIterator.hasNext()) {
+			String[] credentials = dataIterator.next();
+			TestContext.setUsername(credentials[0]);
+			TestContext.setPassword(credentials[1]);
+		} else {
+			throw new RuntimeException("No more test data available.");
+		}
 
 	}
 
