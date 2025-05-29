@@ -1,0 +1,481 @@
+2025-05-22 23:04:42,886 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:04:52,228 ERROR s.Hooks [main] Scenario failed: Search Box Functionality with a valid product name
+2025-05-22 23:04:52,959 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:04:52,985 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:05:01,880 ERROR s.Hooks [main] Scenario failed: Search Box Functionality with an invalid product name
+2025-05-22 23:05:02,621 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:05:02,681 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:05:11,309 ERROR s.Hooks [main] Scenario failed: Adding a product to the cart
+2025-05-22 23:05:12,027 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:05:12,037 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:05:20,936 ERROR s.Hooks [main] Scenario failed: Removing a product from the cart
+2025-05-22 23:05:21,706 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:05:21,719 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:05:30,682 ERROR s.Hooks [main] Scenario failed: Successful registration with valid data
+2025-05-22 23:05:31,309 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:05:31,320 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:16:02,397 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:16:11,892 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-22 23:16:11,894 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-22 23:16:11,895 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-22 23:16:12,023 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-22 23:16:12,026 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-22 23:16:12,027 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-22 23:16:12,028 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-22 23:16:12,028 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-22 23:16:12,029 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-22 23:16:12,039 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-22 23:16:12,039 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-22 23:16:12,044 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-22 23:16:12,046 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-22 23:16:12,047 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-22 23:16:12,047 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-22 23:16:12,048 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-22 23:16:12,048 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-22 23:16:12,085 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-22 23:16:12,086 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-22 23:16:12,120 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-22 23:16:12,127 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-22 23:16:12,129 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-22 23:16:12,131 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-22 23:16:12,137 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-22 23:16:12,139 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-22 23:16:12,140 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-22 23:16:12,142 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-22 23:16:12,144 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-22 23:16:12,146 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-22 23:16:12,148 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-22 23:16:12,161 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-22 23:16:12,164 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-22 23:16:12,166 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-22 23:16:12,170 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-22 23:16:12,177 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-22 23:16:12,191 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-22 23:16:12,195 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-22 23:16:12,199 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-22 23:16:12,200 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-22 23:16:12,201 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-22 23:16:12,203 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-22 23:16:12,207 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-22 23:16:12,211 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-22 23:16:12,212 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-22 23:16:12,215 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-22 23:16:12,218 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-22 23:16:12,222 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-22 23:16:12,226 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-22 23:16:12,236 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-22 23:16:12,238 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-22 23:16:12,243 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-22 23:16:12,245 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-05-22 23:16:19,836 INFO s.Hooks [main] Scenario passed: Search Box Functionality with a valid product name
+2025-05-22 23:16:20,633 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:16:20,649 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:16:38,656 ERROR s.Hooks [main] Scenario failed: Search Box Functionality with an invalid product name
+2025-05-22 23:16:39,334 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:16:39,393 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:16:58,559 INFO s.Hooks [main] Scenario passed: Adding a product to the cart
+2025-05-22 23:16:59,497 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:16:59,506 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:17:21,824 INFO s.Hooks [main] Scenario passed: Removing a product from the cart
+2025-05-22 23:17:22,525 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:17:22,548 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:17:30,638 ERROR s.Hooks [main] Scenario failed: Successful registration with valid data
+2025-05-22 23:17:31,345 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:17:31,362 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:17:40,073 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-22 23:17:40,813 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:17:40,839 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:17:49,225 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-22 23:17:49,933 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:17:49,944 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:17:58,336 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-22 23:17:59,044 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:17:59,051 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:18:07,984 ERROR s.Hooks [main] Scenario failed: Successful login with valid credentials
+2025-05-22 23:18:08,595 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:49:56,088 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:50:05,564 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-22 23:50:05,566 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-22 23:50:05,567 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-22 23:50:05,722 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-22 23:50:05,725 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-22 23:50:05,727 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-22 23:50:05,727 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-22 23:50:05,728 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-22 23:50:05,730 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-22 23:50:05,744 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-22 23:50:05,745 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-22 23:50:05,750 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-22 23:50:05,751 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-22 23:50:05,752 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-22 23:50:05,753 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-22 23:50:05,754 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-22 23:50:05,755 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-22 23:50:05,803 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-22 23:50:05,804 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-22 23:50:05,859 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-22 23:50:05,866 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-22 23:50:05,871 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-22 23:50:05,874 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-22 23:50:05,879 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-22 23:50:05,881 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-22 23:50:05,882 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-22 23:50:05,883 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-22 23:50:05,884 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-22 23:50:05,886 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-22 23:50:05,889 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-22 23:50:05,892 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-22 23:50:05,893 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-22 23:50:05,896 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-22 23:50:05,899 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-22 23:50:05,907 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-22 23:50:05,925 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-22 23:50:05,930 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-22 23:50:05,934 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-22 23:50:05,936 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-22 23:50:05,938 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-22 23:50:05,941 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-22 23:50:05,944 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-22 23:50:05,949 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-22 23:50:05,955 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-22 23:50:05,957 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-22 23:50:05,961 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-22 23:50:05,965 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-22 23:50:05,968 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-22 23:50:05,979 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-22 23:50:05,981 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-22 23:50:05,985 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-22 23:50:05,987 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-05-22 23:50:10,377 INFO s.RegistrationPageStepDef [main] Navigated to registration page
+2025-05-22 23:50:10,599 INFO s.RegistrationPageStepDef [main] Selected male gender
+2025-05-22 23:50:12,366 INFO s.RegistrationPageStepDef [main] Clicked register button
+2025-05-22 23:50:22,823 ERROR s.Hooks [main] Scenario failed: Successful registration with valid data
+2025-05-22 23:50:23,748 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:50:23,768 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:50:37,241 INFO s.RegistrationPageStepDef [main] Navigated to registration page
+2025-05-22 23:50:38,023 INFO s.RegistrationPageStepDef [main] Submitted invalid registration
+2025-05-22 23:50:43,502 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-22 23:50:44,297 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:50:44,316 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:50:56,774 INFO s.RegistrationPageStepDef [main] Navigated to registration page
+2025-05-22 23:50:57,471 INFO s.RegistrationPageStepDef [main] Submitted invalid registration
+2025-05-22 23:51:02,810 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-22 23:51:03,695 INFO s.Hooks [main] Browser closed.
+2025-05-22 23:51:03,715 INFO s.Hooks [main] Launching browser...
+2025-05-22 23:51:17,095 INFO s.RegistrationPageStepDef [main] Navigated to registration page
+2025-05-22 23:51:17,827 INFO s.RegistrationPageStepDef [main] Submitted invalid registration
+2025-05-22 23:51:23,202 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-22 23:51:23,937 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:29:11,111 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:29:21,169 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-23 00:29:21,172 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-23 00:29:21,173 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-23 00:29:21,287 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 00:29:21,288 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 00:29:21,289 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 00:29:21,289 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 00:29:21,289 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 00:29:21,290 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 00:29:21,297 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 00:29:21,298 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 00:29:21,301 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 00:29:21,302 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 00:29:21,302 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 00:29:21,303 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 00:29:21,303 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 00:29:21,304 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 00:29:21,337 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 00:29:21,338 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-23 00:29:21,369 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-23 00:29:21,372 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-23 00:29:21,374 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-23 00:29:21,376 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-23 00:29:21,380 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-23 00:29:21,382 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-23 00:29:21,384 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-23 00:29:21,385 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-23 00:29:21,388 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-23 00:29:21,389 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-23 00:29:21,391 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-23 00:29:21,393 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-23 00:29:21,395 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-23 00:29:21,397 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-23 00:29:21,401 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-23 00:29:21,408 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-23 00:29:21,419 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-23 00:29:21,424 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-23 00:29:21,428 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-23 00:29:21,430 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-23 00:29:21,431 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-23 00:29:21,434 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-23 00:29:21,437 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-23 00:29:21,441 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-23 00:29:21,442 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-23 00:29:21,445 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-23 00:29:21,449 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-23 00:29:21,453 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-23 00:29:21,455 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-23 00:29:21,462 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-23 00:29:21,464 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-23 00:29:21,469 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-23 00:29:21,471 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-05-23 00:29:28,659 ERROR s.Hooks [main] Scenario failed: Search Box Functionality with a valid product name
+2025-05-23 00:29:29,366 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:29:29,382 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:29:43,961 ERROR s.Hooks [main] Scenario failed: Search Box Functionality with an invalid product name
+2025-05-23 00:29:44,504 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:29:44,553 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:30:00,399 INFO s.Hooks [main] Scenario passed: Adding a product to the cart
+2025-05-23 00:30:00,866 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:30:00,872 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:30:18,959 ERROR s.Hooks [main] Scenario failed: Removing a product from the cart
+2025-05-23 00:30:19,555 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:30:19,560 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:30:27,471 ERROR s.Hooks [main] Scenario failed: Successful registration with valid data
+2025-05-23 00:30:28,037 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:30:28,047 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:30:35,634 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-23 00:30:36,311 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:30:36,316 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:30:44,271 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-23 00:30:44,852 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:30:44,856 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:30:52,722 ERROR s.Hooks [main] Scenario failed: Registration fails with invalid or incomplete data
+2025-05-23 00:30:53,298 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:30:53,303 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:31:01,334 ERROR s.Hooks [main] Scenario failed: Successful login with valid credentials
+2025-05-23 00:31:01,949 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:31:01,955 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:31:09,834 ERROR s.Hooks [main] Scenario failed: validate error message after entering invalid username and password
+2025-05-23 00:31:10,442 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:31:10,451 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:31:18,378 ERROR s.Hooks [main] Scenario failed: validate error message after entering invalid username and password
+2025-05-23 00:31:18,970 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:31:18,977 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:31:26,910 ERROR s.Hooks [main] Scenario failed: validate error message after entering invalid username and password
+2025-05-23 00:31:27,506 INFO s.Hooks [main] Browser closed.
+2025-05-23 00:31:27,512 INFO s.Hooks [main] Launching browser...
+2025-05-23 00:31:35,524 ERROR s.Hooks [main] Scenario failed: Forgot password navigation
+2025-05-23 00:31:36,109 INFO s.Hooks [main] Browser closed.
+2025-05-23 15:16:30,337 INFO s.Hooks [main] Launching browser...
+2025-05-23 15:16:35,304 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-23 15:16:35,308 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-23 15:16:35,310 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-23 15:16:35,436 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:16:35,439 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:16:35,439 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:16:35,440 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:16:35,440 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:16:35,441 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:16:35,448 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:16:35,449 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:16:35,452 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:16:35,454 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:16:35,455 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:16:35,455 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:16:35,456 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:16:35,456 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:16:35,495 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:16:35,495 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-23 15:16:35,533 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-23 15:16:35,538 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-23 15:16:35,541 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-23 15:16:35,544 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-23 15:16:35,547 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-23 15:16:35,549 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-23 15:16:35,550 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-23 15:16:35,552 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-23 15:16:35,553 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-23 15:16:35,558 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-23 15:16:35,562 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-23 15:16:35,566 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-23 15:16:35,568 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-23 15:16:35,570 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-23 15:16:35,576 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-23 15:16:35,586 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-23 15:16:35,601 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-23 15:16:35,605 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-23 15:16:35,610 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-23 15:16:35,613 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-23 15:16:35,614 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-23 15:16:35,616 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-23 15:16:35,619 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-23 15:16:35,623 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-23 15:16:35,626 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-23 15:16:35,630 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-23 15:16:35,635 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-23 15:16:35,639 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-23 15:16:35,642 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-23 15:16:35,652 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-23 15:16:35,653 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-23 15:16:35,657 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-23 15:16:35,659 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-05-23 15:16:44,407 INFO s.LoginStepDef [main] Navigated to login page
+2025-05-23 15:16:44,686 INFO s.LoginStepDef [main] Logging in with username: anup121@gmail.com and password: Test@1234
+2025-05-23 15:16:44,771 INFO s.LoginStepDef [main] Clicked on login button
+2025-05-23 15:16:47,477 INFO s.LoginStepDef [main] Logged in successfully, logout button displayed
+2025-05-23 15:16:47,482 INFO s.Hooks [main] Scenario passed: Successful login with valid credentials
+2025-05-23 15:16:48,342 INFO s.Hooks [main] Browser closed.
+2025-05-23 15:17:52,006 INFO s.Hooks [main] Launching browser...
+2025-05-23 15:17:56,921 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-23 15:17:56,925 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-23 15:17:56,928 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-23 15:17:57,079 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:17:57,082 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:17:57,083 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:17:57,084 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:17:57,084 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:17:57,085 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:17:57,095 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:17:57,096 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:17:57,100 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:17:57,102 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:17:57,103 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:17:57,104 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:17:57,105 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:17:57,105 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:17:57,146 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:17:57,147 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-23 15:17:57,203 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-23 15:17:57,207 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-23 15:17:57,212 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-23 15:17:57,214 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-23 15:17:57,217 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-23 15:17:57,220 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-23 15:17:57,222 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-23 15:17:57,225 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-23 15:17:57,228 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-23 15:17:57,229 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-23 15:17:57,232 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-23 15:17:57,234 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-23 15:17:57,237 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-23 15:17:57,242 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-23 15:17:57,247 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-23 15:17:57,257 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-23 15:17:57,275 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-23 15:17:57,283 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-23 15:17:57,289 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-23 15:17:57,293 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-23 15:17:57,295 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-23 15:17:57,298 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-23 15:17:57,304 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-23 15:17:57,314 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-23 15:17:57,317 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-23 15:17:57,324 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-23 15:17:57,333 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-23 15:17:57,338 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-23 15:17:57,342 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-23 15:17:57,353 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-23 15:17:57,355 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-23 15:17:57,360 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-23 15:17:57,363 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-05-23 15:18:02,132 INFO s.LoginStepDef [main] Navigated to login page
+2025-05-23 15:18:02,365 INFO s.LoginStepDef [main] Logging in with username: anup121@gmail.com and password: Test@1234
+2025-05-23 15:18:04,484 INFO s.LoginStepDef [main] Clicked on login button
+2025-05-23 15:18:04,540 INFO s.LoginStepDef [main] Logged in successfully, logout button displayed
+2025-05-23 15:18:04,546 INFO s.Hooks [main] Scenario passed: Successful login with valid credentials
+2025-05-23 15:18:05,209 INFO s.Hooks [main] Browser closed.
+2025-05-23 15:50:45,508 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-23 15:50:45,514 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-23 15:50:45,516 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-23 15:50:45,663 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:50:45,666 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:50:45,667 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:50:45,667 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:50:45,668 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:50:45,669 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:50:45,682 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 15:50:45,683 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:50:45,687 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 15:50:45,687 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:50:45,689 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 15:50:45,690 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:50:45,690 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 15:50:45,691 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:50:45,736 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 15:50:45,737 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-23 15:50:45,775 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-23 15:50:45,779 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-23 15:50:45,782 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-23 15:50:45,783 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-23 15:50:45,788 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-23 15:50:45,791 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-23 15:50:45,795 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-23 15:50:45,797 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-23 15:50:45,799 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-23 15:50:45,801 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-23 15:50:45,803 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-23 15:50:45,804 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-23 15:50:45,805 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-23 15:50:45,808 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-23 15:50:45,812 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-23 15:50:45,819 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-23 15:50:45,830 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-23 15:50:45,836 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-23 15:50:45,842 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-23 15:50:45,846 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-23 15:50:45,849 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-23 15:50:45,851 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-23 15:50:45,856 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-23 15:50:45,861 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-23 15:50:45,865 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-23 15:50:45,868 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-23 15:50:45,874 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-23 15:50:45,880 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-23 15:50:45,886 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-23 15:50:45,900 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-23 15:50:45,903 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-23 15:50:45,910 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-23 15:50:45,913 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-05-23 17:19:33,223 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-23 17:19:33,228 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-23 17:19:33,230 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-05-23 17:19:33,369 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 17:19:33,372 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 17:19:33,374 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 17:19:33,374 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 17:19:33,374 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 17:19:33,377 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 17:19:33,386 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-05-23 17:19:33,387 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 17:19:33,391 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-05-23 17:19:33,391 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 17:19:33,392 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-05-23 17:19:33,393 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 17:19:33,393 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-05-23 17:19:33,394 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 17:19:33,440 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-05-23 17:19:33,440 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-05-23 17:19:33,476 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-05-23 17:19:33,482 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-05-23 17:19:33,486 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-05-23 17:19:33,489 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-05-23 17:19:33,493 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-05-23 17:19:33,495 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-05-23 17:19:33,497 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-05-23 17:19:33,499 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-05-23 17:19:33,501 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-05-23 17:19:33,502 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-05-23 17:19:33,504 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-05-23 17:19:33,505 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-05-23 17:19:33,506 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cttablestyles872ftype
+2025-05-23 17:19:33,509 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-05-23 17:19:33,511 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-05-23 17:19:33,518 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-05-23 17:19:33,531 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-05-23 17:19:33,536 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-05-23 17:19:33,539 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-05-23 17:19:33,541 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-05-23 17:19:33,543 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-05-23 17:19:33,546 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-05-23 17:19:33,555 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-05-23 17:19:33,562 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-05-23 17:19:33,565 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-05-23 17:19:33,568 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-05-23 17:19:33,573 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-05-23 17:19:33,580 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-05-23 17:19:33,584 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcola95ftype
+2025-05-23 17:19:33,600 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlinks6416type
+2025-05-23 17:19:33,604 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle cthyperlink0c85type
+2025-05-23 17:19:33,610 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-05-23 17:19:33,614 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
