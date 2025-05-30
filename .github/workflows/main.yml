@@ -3,8 +3,8 @@ name: Java CI
 
 on:
   # Triggers the workflow every 5 minutes
-  schedule:
-    - cron: "*/2 * * * *"
+  #schedule:
+   # - cron: "*/2 * * * *"
   push:
     branches: [ "dev" ]
   pull_request:
